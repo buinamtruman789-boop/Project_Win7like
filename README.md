@@ -12,5 +12,5 @@ so first in windhawk install windows 11 taskbar styler and chose windows 7 and i
 
 next we want to install open shell and the start button so install these are the full files https://drive.google.com/drive/folders/1Le61YWkj-yyKtxQ98Y8F3gCMjYfbpDph?usp=sharing ( make a folder in OS C: and call it themes and put the start button in it and rename it Start.png ) 
 
-( UNFINISHED WORK CONTINUE TOMMOROW ) 
+so when you open thew open shell app for the first time you want to chose windows 7 like then using the .skin7 you want to copy it then go to OS C: then to program files THEN go to open shell THEN go to skins THEN paste the file. After that 
 
