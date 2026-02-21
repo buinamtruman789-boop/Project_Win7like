@@ -10,3 +10,7 @@ If your windhawk is not showing up in the start menu you want to install everyth
 so first in windhawk install windows 11 taskbar styler and chose windows 7 and in Target put this Taskbar.ExperienceToggleButton#LaunchListButton[AutomationProperties.AutomationId=StartButton] and for styles put this Opacity=0
 
 
+next we want to install open shell and the start button so install these are the full files https://drive.google.com/drive/folders/1Le61YWkj-yyKtxQ98Y8F3gCMjYfbpDph?usp=sharing ( make a folder in OS C: and call it themes and put the start button in it and rename it Start.png ) 
+
+( UNFINISHED WORK CONTINUE TOMMOROW ) 
+
